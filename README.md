@@ -32,7 +32,7 @@ Enter risk-free interest rate: 0.05
 Enter volatility: 0.2
 Enter option type (call/put): call
 Option Price: 8.07
-
+```
 
 ## License 
 MIT
